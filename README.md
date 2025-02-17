@@ -112,6 +112,7 @@ My diverse educational background, including Equine Business Management and addi
 - **Specialized Topics:** Covered approaches for individuals experiencing psychotic episodes and neuropsychiatric disorders, including autism and ADHD.
 
 ### :atom: Some of my repositories:
+- https://github.com/SnowY4you/IT_skills_IIT_Asset_Management_System
 - https://github.com/SnowY4you/WhatTheCarb
 - https://github.com/SnowY4you/EventLogWizard
 - https://github.com/SnowY4you/CVScreening
