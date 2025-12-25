@@ -60,45 +60,21 @@ This to utilize the data effectively to improve patient outcomes and enhance dia
 
 ### Some of my Repositories
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="background-color: #0a4345; color: #ffffff; border: 3px solid #5f40a2;">
-    <th style="padding: 10px; border: 4px solid #1f0e43;">Repository</th>
-    <th style="padding: 10px; border: 4px solid #1f0e43;">Link</th>
-  </tr>
+<table style="border-collapse: collapse; width: 100%;"> <tr style="background-color: #0a4345; color: #ffffff; border: 3px solid #5f40a2;"> <th style="padding: 10px; border: 4px solid #1f0e43;">Repository</th> <th style="padding: 10px; border: 4px solid #1f0e43;">Short Description</th> </tr>
 
-  <tr style="background-color: #106d70; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>Job_administration</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/Job_administration</td>
-  </tr>
+<tr style="background-color: #106d70; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/Dashboard_Project" style="color: #ffffff; text-decoration: none;"><b>Dashboard_Project</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Professional Service Governance dashboard for SLA/KPI monitoring using Plotly Dash.</td> </tr>
 
-  <tr style="background-color: #199ea1; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>skolvalarskurs7</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/skolvalarskurs7</td>
-  </tr>
+<tr style="background-color: #106d70; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/Job_administration" style="color: #ffffff; text-decoration: none;"><b>Job_administration</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Tools for managing and automating administrative tasks related to job applications.</td> </tr>
 
-  <tr style="background-color: #106d70; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>WhatTheCarb</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/WhatTheCarb</td>
-  </tr>
+<tr style="background-color: #199ea1; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/skolvalarskurs7" style="color: #ffffff; text-decoration: none;"><b>skolvalarskurs7</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Educational project/resource management for Swedish Grade 7 school selection.</td> </tr>
 
-  <tr style="background-color: #199ea1; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>EventLogWizard</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/EventLogWizard</td>
-  </tr>
+<tr style="background-color: #106d70; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/WhatTheCarb" style="color: #ffffff; text-decoration: none;"><b>WhatTheCarb</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Health-focused application for tracking carbohydrate intake and nutritional data.</td> </tr>
 
-  <tr style="background-color: #106d70; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>CVScreening</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/CVScreening</td>
-  </tr>
+<tr style="background-color: #199ea1; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/EventLogWizard" style="color: #ffffff; text-decoration: none;"><b>EventLogWizard</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Log analysis utility designed to parse and simplify complex system event logs.</td> </tr>
 
-  <tr style="background-color: #199ea1; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>HEIC_converter</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/HEIC_converter</td>
-  </tr>
+<tr style="background-color: #106d70; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/CVScreening" style="color: #ffffff; text-decoration: none;"><b>CVScreening</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Automated screening tool to evaluate CVs against job requirements and keywords.</td> </tr>
 
-  <tr style="background-color: #106d70; border: 3px solid #000;">
-    <td style="padding: 10px; border: 4px solid #1f0e43;"><b>Merge_PDF</b></td>
-    <td style="padding: 10px; border: 3px solid #5f40a2;">https://github.com/SnowY4you/Merge_PDF</td>
-  </tr>
-</table>
+<tr style="background-color: #199ea1; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/HEIC_converter" style="color: #ffffff; text-decoration: none;"><b>HEIC_converter</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">Python utility for batch converting Apple's HEIC image format to JPEG or PNG.</td> </tr>
+
+<tr style="background-color: #106d70; border: 3px solid #000;"> <td style="padding: 10px; border: 4px solid #1f0e43;"><a href="https://github.com/SnowY4you/Merge_PDF" style="color: #ffffff; text-decoration: none;"><b>Merge_PDF</b></a></td> <td style="padding: 10px; border: 3px solid #5f40a2; color: #ffffff;">A lightweight script to quickly merge multiple PDF documents into a single file.</td> </tr> </table>
 
