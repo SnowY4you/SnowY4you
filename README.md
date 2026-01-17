@@ -48,6 +48,7 @@ VPN), IT Security.
 - **The "Unicorn" Bridge**: Expert at translating complex technical infrastructure into business value; aligning IT roadmaps with organizational ROI. Or like some would say: "To boldly go where no one else has gone".
 - **Cross-Functional Leadership**: Driving collaboration between Dev, Ops, and Stakeholders; experienced in 1:1 coaching, performance management, and talent pipelining. 
 - **High-Stakes Crisis Management**: Leveraging high-EQ (honed in psychiatric care) to lead technical bridges during P1/P2 incidents, maintaining calm and methodical resolution. : Systematic pattern recognition and anomaly detection in large datasets to drive data-driven improvement initiatives.
+- **Innovational**: Identifying and eliminating bottlenecks in complex technical environments and optimizing operational efficiency through process development and technical innovation. 
 
 
 **Soft Skills**
