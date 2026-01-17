@@ -1,12 +1,17 @@
-span
 
-## <span style="color:#40B5AD;">Dynamic It Service Specialist & Operational Leader | Bridging Infrastructure & Devops</span>
+## <span style="color:#40B5AD;">IT Service Excellence Engineer | Strategic IT Service Delivery | Bridging ITSM & DevOps | Lean Six Sigma</span>
 
 ## :unicorn: Summary
 
-Solution-oriented IT specialist with over 13 years of experience in identifying and eliminating bottlenecks in complex technical environments and optimizing operational efficiency through process development and technical innovation. I excel in complex analysis, pattern recognition, and anomaly detection to troubleshoot intricate challenges, with the continuous goal of maximizing business value through improved IT service delivery.
+**Solution-oriented IT Service Specialist and Lean Six Sigma Green Belt with 13+ years of experience 
+bridging the gap between complex infrastructure and business value.** A **T-shaped leader** acting as 
+a **technical translator between Agile development cycles and traditional IT Service Management (ITSM) 
+frameworks**. 
 
-Expert at bridging the gap between complex technical infrastructure and business value through a unique toolkit of Lean Six Sigma, DevOps methodologies, and advanced Data Analytics. Proven track record in scaling First Contact Resolution (FCR), architecting observability dashboards, and leading high-performing cross-functional teams. A creative problem-solver and lifelong learner, currently leveraging Generative AI and Python automation to eliminate manual toil and drive continuous service improvement.
+Known for a **"Steel Filter"** composure—honed in acute psychiatric care—allowing for methodical 
+leadership during P1 critical incidents. ‘I don't just manage services; I re-engineer them’. By leveraging 
+ELK Stack observability and Generative AI analytics, I transform reactive support desks into proactive, 
+automated engines of efficiency. 
 
 ## :medal_sports: Certifications
 
@@ -22,57 +27,48 @@ Expert at bridging the gap between complex technical infrastructure and business
 
 ## :crossed_swords: Technical Competence and Skills
 
+**Process Automation & Engineering**
+- **Automation & Scripting**: Python (Flask, API development), PowerShell, Bash, SQL. 
+- **Knowledge-Centered Service (KCS)**: Advanced SOP development, Knowledge-as-Code, and Documentation-as-Automation to drive "Shift-Left" resolution. 
+- **Data Engineering & Analytics**: Power BI, Tableau, Snowflake; Mastery of Data Formats (Parquet, YAML, JSON, HCL, TOML) for efficient cloud storage and configuration. 
+- **AI/ML & Observability**: Anomaly detection and predictive analytics using ELK Stack, Nexthink, and Grafana to pre-empt system outages and account issues.
+
+
 **Cloud, DevOps & Infrastructure**
+- **Cloud Ecosystems: Azure** (Intune, Entra ID), AWS (Solutions Architect Level), GCP, IBM Cloud. 
+- **Containerization & Orchestration**: Kubernetes, Docker, OpenShift, Helm, CI/CD Pipeline 
+Architecture. 
+- **Core Infrastructure**: VMware, Windows Server, macOS (Jamf), Enterprise Networking (TCP/IP, 
+VPN), IT Security.
 
-* **Cloud Platforms**: Azure (Intune/Entra ID), AWS (Solutions Architect level), Google Cloud, IBM Cloud.
-* **Containers & Architecture**: Docker, Kubernetes, OpenShift, Serverless architecture, Microservices.
-* **Monitoring & Observability**: Datadog, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana, SCOM.
-* **Virtualization & Client Management**: VMware, Citrix, Windows Server, macOS, Jamf, Apple Configurator.
-* **Networking & Security**: TCP/IP, DNS, DHCP, VPN, IT Security (Defense Against the Dark Arts).
 
-**Automation, Programming & Data Analytics**
+**Strategic Leadership & Value Delivery**
+- **Operational Excellence**: Lean Six Sigma Green Belt (DMAIC), ITIL Expert 
+(Incident/Problem/Change/Transition), Root Cause Analysis (RCA). 
+- **The "Unicorn" Bridge**: Expert at translating complex technical infrastructure into business value; aligning IT roadmaps with organizational ROI. Or like some would say: "To boldly go where no one else has gone".
+- **Cross-Functional Leadership**: Driving collaboration between Dev, Ops, and Stakeholders; experienced in 1:1 coaching, performance management, and talent pipelining. 
+- **High-Stakes Crisis Management**: Leveraging high-EQ (honed in psychiatric care) to lead technical bridges during P1/P2 incidents, maintaining calm and methodical resolution. : Systematic pattern recognition and anomaly detection in large datasets to drive data-driven improvement initiatives.
 
-* **Programming & Scripting**: Python (Flask, Dash, API development), PowerShell, Bash/Shell Scripting, SQL, R, VBA.
-* **Data Analytics & BI**: Power BI, Snowflake, IBM Cognos, IBM Watson, Tableau, Advanced Excel.
-* **AI & ML**: Foundational Machine Learning (ML), NLP, and Deep Learning. Leveraging Generative AI for predictive analysis.
-* **Data Formats**: JSON, YAML, XML, HTML.
-
-**Methodology, Process & Strategic Leadership**
-
-* **Process Optimization**: Lean Six Sigma Green Belt (100+ tools), Root Cause Analysis (RCA), KPI Management.
-* **Frameworks**: ITIL (Expertise in Incident/Problem/Change), Agile, Scrum, Project Management (Google Certified).
-* **Strategic Leadership**: Expert at bridging the gap between technology and business. Experienced in cross-functional leadership, employee development (1:1s), and Knowledge Centered Service (KCS).
-* **Analytical Problem Solving**: Systematic pattern recognition and anomaly detection in large datasets to drive data-driven improvement initiatives.
 
 **Soft Skills**
-
 * **Communication**: Clear and effective communication with both technical and non technical stakeholders.
 * **Teamwork**: Collaborative and flexible in cross-functional environments.
 * **Analysis & Strategy**: Proven creative and analytical thinking when solving complex technical challenges. Strategic thinker with methodical problem-solving skills.
-* Interpersonal: Empathetic and user-focused; handles difficult situations with professionalism. Understands and respects diverse cultures and demonstrates high emotional intelligence.
-
-- 🔭 I'm currently working on **CGM data from CareLink and approach it with anomaly detection and pattern recognitions.
-  This to utilize the data effectively to improve patient outcomes and enhance diabetes management strategies.**
+* **Interpersonal**: Empathetic and user-focused; handles difficult situations with professionalism. Understands and respects diverse cultures and demonstrates high emotional intelligence.
 
 ## :pushpin: Project Experience & Leadership
 
-**Technical Lead / Operational Analyst**
-
-:arrow_right:Focus: Process Improvement, Automation & Knowledge Management (FCR Growth)
-
-* **Process Engineering**: Applied Lean Six Sigma to technical workflows, identifying patterns in system failures and implementing automated "self-healing" scripts to increase system uptime.
-* **Workflow Automation & Scripting**: Developed Python and PowerShell scripts to automate repetitive incident resolutions, significantly reducing manual toil and improving First Contact Resolution (FCR) through Shift-Left methodologies.
-  Standard Operating Procedures (SOP): Engineered a structured Knowledge Management framework to transition complex technical resolutions from L3 engineering to L1/L2 operations, streamlining the deployment lifecycle.
-* **Observability & Analytics**: Integrated Nexthink and Elasticsearch to build proactive monitoring and anomaly detection capabilities, allowing the team to identify and resolve infrastructure bottlenecks before they impacted end-users.
+:arrow_right:**Focus: Service Transition & Operational Scaling | Saab Enterprise Project**
+- **Transition Orchestration**: Spearheaded "Discovery to Go-Live" phases, migrating legacy modules to a modern, RBAC-compliant L1.5 framework. 
+- **Rapid Team Scaling**: Engineered the operational foundation to scale the team from 6 to 30 agents in 6 months while maintaining enterprise service quality. 
+- **Stakeholder Synergy**: Acted as SPoC between Wipro’s transition engine and Saab’s IT leadership to align roadmaps with organizational governance. 
+- **Talent Pipeline**: Designed a technical recruitment framework and conducted interviews to ensure 100% proficiency in Linux, networking, and automation. 
+- **Performance Architecture**: Developed real-time visualization suites for FCR, AHT, and CSAT, shifting the desk to data-driven decision-making. 
 
 
 <br>
 
-
-**Team Lead Service Desk L1 + L1.5**
-
 :arrow_right: **Focus: Transition Management, Performance Growth & Competency Development**
-
 * **Service Transition & Migration**: Spearheaded the infrastructure transition phases (Discovery to Go-Live) for large-scale enterprise clients (Saab & Scania), ensuring seamless integration of new service modules into existing environments.
 * **Infrastructure Reporting**: Architected automated status dashboards using SQL and visualization tools to track real-time system health and team performance against high-availability KPIs.
 * **Continuous Service Improvement (CSI)**: Championed the implementation of automated self-service portals, resulting in a 21% increase in FCR and a significant reduction in ticket volume for the engineering backend.
@@ -81,12 +77,21 @@ Expert at bridging the gap between complex technical infrastructure and business
 
 
 <br>
-**Qualified Mental Health Worker**
 
-:arrow_right: **Focus: Competency Development & Method Implementation**
+:arrow_right: **Focus: Process Automation & Knowledge Engineering | Agent Enablement & Shift-Left**
+- **Internal Solution Portal**: Developed a custom portal for Service Desk agents that automated complex troubleshooting steps, reducing the workload of specialist levels (L2/L3) by 21%. 
+- **Security-First Design**: Conducted Capability Gap Analyses and RBAC assessments to ensure resolutions met aerospace-grade security standards. 
+- **Knowledge Ecosystem**: Engineered a KCS framework to transition L3 "dark knowledge" into actionable SOPs, increasing frontline resolution capability. 
+- **Access Modeling**: Partnered with Identity teams to architect a compliant roadmap for future automated incident resolutions. 
 
-* Training Responsibility: Designed and implemented training programs to improve care quality.
-* Specialist Education: Developed lecture series for staff and students on Low Arousal Approach (Lågaffektivt bemötande) for patients with psychotic episodes or neuro-psychiatric diagnoses (Autism/ADHD).
+<br>
+
+:arrow_right: **Observability & Proactive Monitoring | ELK Stack & Nexthink**
+- **Log Analytics**: Led ELK Stack (Elasticsearch, Logstash, Kibana) implementation to monitor Windows Event Logs and detect anomalies before user impact. 
+- **Proactive Support**: Integrated Nexthink telemetry into ServiceNow, transforming the desk into a proactive "Resolution Engine" via real-time endpoint data. 
+- **RCA & Efficiency**: Utilized Pareto/5-Why analysis to identify "ping-pong" tickets, reducing L2 escalations by 28%. 
+- **Diagnostic Automation**: Developed PowerShell-based tools to automate initial hardware/software health checks, slashing manual troubleshooting time. 
+- **ROI Visibility**: Deployed Executive Dashboards to track MTTR and FCR growth resulting from automation integrations. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
