@@ -169,7 +169,6 @@ VPN), IT Security.
 
 
 
-
 ### Some of my Repositories
 
 <table style="border-collapse: collapse; border: 2px solid #00cccc; width: 100%;">
@@ -178,6 +177,15 @@ VPN), IT Security.
     <td style="padding: 8px; border: 1px solid #00cccc;"><b>Description</b></td>
   </tr>
 
+  <tr style="background-color: #e6ffff;">
+    <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
+      <a href="[https://github.com/SnowY4you/devops-capstone-project](https://github.com/SnowY4you/knowledge_as_code)" style="color:#404040;">Knowledge as Code</a>
+    </td>
+    <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
+      Knowledge as Code is an intelligent platform for managing Standard Operating Procedures (SOPs).
+    </td>
+  </tr>
+  
   <tr style="background-color: #e6ffff;">
     <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
       <a href="https://github.com/SnowY4you/devops-capstone-project" style="color:#404040;">devops-capstone-project</a>
