@@ -105,69 +105,6 @@ VPN), IT Security.
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-### Badges
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="width: 150px; height: 150px;">
-      <img src="AIGPE-Green-Belt-Digital-Badge_Certifications.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="AWS Cloud badge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="CI CD badge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="data-analytics-essentials.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="datavisualisation.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="Data_Analyst_Capstone.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 150px; height: 150px;">
-      <img src="GCC_badge_PGM_1000x1000.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="Git and GitHub Essentials - badge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="GoogleITcompletionbadge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="Jira%20Badge.jpg" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="image (1).png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="image.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width: 150px; height: 150px;">
-      <img src="IMG_1045.JPG" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="Intro%20to%20Agile%20Dev%20and%20Scrum%20badge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="Linux Commands & Shell Scripting - badge.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;">
-      <img src="devop_essentials.png" style="width:100%; height:100%; object-fit:cover;">
-    </td>
-    <td style="width: 150px; height: 150px;"></td>
-    <td style="width: 150px; height: 150px;"></td>
-  </tr>
-</table>
-
-
 
 ### Some of my Repositories
 
@@ -179,7 +116,7 @@ VPN), IT Security.
 
   <tr style="background-color: #e6ffff;">
     <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
-      <a href="[https://github.com/SnowY4you/devops-capstone-project](https://github.com/SnowY4you/knowledge_as_code)" style="color:#404040;">Knowledge as Code</a>
+      <a href="https://github.com/SnowY4you/devops-capstone-project" style="color:#404040;">Knowledge as Code</a>
     </td>
     <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
       Knowledge as Code is an intelligent platform for managing Standard Operating Procedures (SOPs).
@@ -274,5 +211,67 @@ VPN), IT Security.
     <td style="padding: 8px; border: 1px solid #00cccc; color: #404040;">
       This is a simple CV screener, a very simplified ATS (Applicant Tracking System).
     </td>
+  </tr>
+</table>
+
+### Badges
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="width: 150px; height: 150px;">
+      <img src="AIGPE-Green-Belt-Digital-Badge_Certifications.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="AWS Cloud badge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="CI CD badge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="data-analytics-essentials.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="datavisualisation.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="Data_Analyst_Capstone.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 150px; height: 150px;">
+      <img src="GCC_badge_PGM_1000x1000.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="Git and GitHub Essentials - badge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="GoogleITcompletionbadge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="Jira%20Badge.jpg" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="image (1).png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="image.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 150px; height: 150px;">
+      <img src="IMG_1045.JPG" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="Intro%20to%20Agile%20Dev%20and%20Scrum%20badge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="Linux Commands & Shell Scripting - badge.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;">
+      <img src="devop_essentials.png" style="width:100%; height:100%; object-fit:cover;">
+    </td>
+    <td style="width: 150px; height: 150px;"></td>
+    <td style="width: 150px; height: 150px;"></td>
   </tr>
 </table>
